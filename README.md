@@ -1,5 +1,11 @@
 # Culinario RAG — Agente Culinário com Azure AI Foundry
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2ea44f?style=for-the-badge)
+
 Chat de IA especializado em **alta gastronomia e ciência culinária**, construído sobre **Azure AI Foundry (GPT-4o)** com padrão **RAG (Retrieval-Augmented Generation)**. O projeto serve como prova de conceito para validar o uso do AI Foundry em aplicações conversacionais com base de conhecimento estruturada.
 
 ---
